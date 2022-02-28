@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: APISIX证书自动化
+title: ThreadPoolExecutor重要参数
 categories: [Java]
 ---
 # ThreadPoolExecutor重要参数
