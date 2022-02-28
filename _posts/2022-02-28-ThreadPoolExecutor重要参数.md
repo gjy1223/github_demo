@@ -1,3 +1,8 @@
+---
+layout: mypost
+title: APISIX证书自动化
+categories: [Java]
+---
 # ThreadPoolExecutor重要参数
 
 ThreadPoolExecutor有几个重要的成员变量：`keepAliveTime`、`allowCoreThreadTimeOut`、`poolSize`、`corePoolSize`、`maximumPoolSize`。下面分别介绍一下：
