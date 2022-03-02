@@ -26,6 +26,6 @@ title: 关于我
 
 - QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1205072443
 
-- Email&nbsp;: [1205072443@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [1205072443@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=8sPAwsfCxcDGxsGyg4PckZ2f)
 
-- GitHub: [https://github.com/gujy1223](https://github.com/tmaize)
+- GitHub: [https://github.com/gjy1223](https://github.com/gjy1223)
