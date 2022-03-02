@@ -2,7 +2,7 @@ encoding: utf-8
 
 # SEO相关信息
 title: Gujy Blog
-description: TMaize的个人博客
+description: Gujy的个人博客
 keywords: Gujy,Blog,Java,Html,JavaScript
 author: Gujy
 footerText: 'Copyright © 2022 皖ICP备16016174号'
@@ -21,7 +21,7 @@ domainUrl: 'https://hdugujy.xyz'
 baseurl: ''
 
 # 吐个槽地址，会在chat页面中重定向到该地址
-tucaoUrl: https://support.qq.com/product/86335
+tucaoUrl: https://support.qq.com/product/383690
 
 # 菜单
 # 必填字段 title: '文本' url: '链接'

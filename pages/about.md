@@ -3,30 +3,29 @@ layout: mypost
 title: 关于我
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
+> Hello 陌生人，欢迎访问 Gujy Blog
 
-该博客托管于 GitHub Page，国内默认解析到腾讯云，以保证国内外的访问速度。留言页面使用腾讯的“吐个槽”，另外使用的腾讯的 MTA 分析工具统计访问量（下线了）
-
-主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+该博客托管于 GitHub Page，主题由TMaize提供，域名由namesilo提供，留言页面使用腾讯的“吐个槽”。
 
 ## 相关技能
 
-- 熟悉 JavaScript 语言， 熟练使用 Vue 全家桶,jQuery 等前端框架
+*   **Java**：熟悉Java编程，有良好的编码能力，熟悉面向对象编程，了解JVM调优。
 
-- 熟悉 Java，NodeJs,Go 等后端语言
+*   **数据库**：熟练使用Mysql、Redis及常见的优化手段。
 
-- 后端框架 Spring，Hibernate，JFinal，Mybatis 略有了解
+*   **框架**：熟悉Spring Boot、MyBatis等主流开发框架，了解消息队列Kafka、Zookeeper的使用和原理。
 
-- 数据库方面能熟练使用 MySQL,Oracle，MongoDB
+*   **搜索引擎**：熟悉solr的工作流程，会使用solr进行数据管理。
 
-- Linux 的简单使用，各种服务的搭建
+*   **项目协作**：熟悉Git工具，熟悉linux下的基本操作命令，熟悉团队中CodeReview规范。
 
-- 能够使用 Git/SVN 对代码版本进行控制
+*   **其它**：了解分布式系统的设计与应用，了解SOA、设计模式等相关工程概念。
+
 
 ## 联系我
 
-- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1772314831
+- QQ&nbsp;&nbsp;&nbsp;&nbsp;: 1205072443
 
-- Email&nbsp;: [tmaize@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
+- Email&nbsp;: [1205072443@qq.com](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=YBQNAQkaBSAREU4DDw0)
 
-- GitHub: [https://github.com/tmaize](https://github.com/tmaize)
+- GitHub: [https://github.com/gujy1223](https://github.com/tmaize)
